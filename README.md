@@ -4,9 +4,6 @@
   <img src="./Assets/Images/logo.jpg" height="250px">
   </p>
 
-<p align="center"> Join our official <a href="https://discord.gg/X3HZAPzykU">Discord Channel</a> for discussions and updates. </p>
-
-
 ## Inspiration for the Project:
 
 It has been estimated that more than one million adoptable dogs and cats are euthanized in the United States each year. This happens for the reason that there are too many pets that are enrolled into shelters and only a few people consider adoption when they look out for a pet.
@@ -109,9 +106,9 @@ git checkout -b YourBranchName
 
 **8.** Stage your changes and commit:
 
-⚠️ **Make sure** not to commit `package.json` or `package-lock.json` file
+**Make sure** not to commit `package.json` or `package-lock.json` file
 
-⚠️ **Make sure** not to run the commands `git add .` or `git add *`. Instead, stage your changes for each file/folder
+**Make sure** not to run the commands `git add .` or `git add *`. Instead, stage your changes for each file/folder
 
 ```bash
 git add public
@@ -129,6 +126,6 @@ git push origin YourBranchName
 
 **10.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
-**11.** **Congratulations!** You've made your first contribution to [**PetMe**](https://github.com/akshitagupta15june/PetMe/graphs/contributors)! 🙌🏼
+**11.** **Congratulations!** You've made your first contribution to [**PetMe**](https://github.com/NavikaAgarwal/PetMe/graphs/contributors)! 
 
 #### For more details, refer to [CONTRIBUTING.md](/CONTRIBUTING.md) file.
